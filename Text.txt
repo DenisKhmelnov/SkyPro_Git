@@ -1,2 +1,3 @@
 Some text
 Lorem ipsum
+Делаем изменение в файле
